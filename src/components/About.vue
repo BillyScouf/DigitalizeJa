@@ -14,7 +14,7 @@
         Queremos que sua empresa seja vista, lembrada e valorizada na era digital — e fazemos isso de maneira rápida, 
         eficiente e acessível.
         </p>
-        <p> No DigitalizaJá, sua presença online não é apenas um site, é o primeiro passo para novas oportunidades, clientes e crescimento.
+        <p> No DigitalizeJá, sua presença online não é apenas um site, é o primeiro passo para novas oportunidades, clientes e crescimento.
       </p><br><br>
 
       <a class="cta" target="_blank" href="https://www.linkedin.com/in/and%C3%A9rsiolopes/" >Meu LinkedIn</a>

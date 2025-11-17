@@ -24,8 +24,8 @@
 
       <div>
         <h4>Contacto</h4>
-        <p><a href="contacto.html">Página de Contacto</a></p>
-        <p><a href="redes.html">Minhas Redes Sociais</a></p>
+        <p><a href="#">Página de Contacto</a></p>
+        <p><a href="#">Minhas Redes Sociais</a></p>
       </div>
     </div>
 

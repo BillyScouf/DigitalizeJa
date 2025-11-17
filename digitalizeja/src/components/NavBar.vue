@@ -79,7 +79,7 @@ export default {
 .hamburger span {
   width: 25px;
   height: 3px;
-  background: #000;
+  background: #1d1d1d;
   border-radius: 2px;
 }
 

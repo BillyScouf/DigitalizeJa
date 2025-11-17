@@ -2,7 +2,7 @@
 <template>
   <footer class="footer">
     <div class="left">
-      <div class="logo"><a href="#home">DigitalizaJá</a></div>
+      <div class="logo"><a href="#home">DigitalizeJá</a></div>
       <p>Consultoria especializada em criação de sites estáticos modernos, rápidos e profissionais.</p>
     </div>
 

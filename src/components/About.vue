@@ -4,7 +4,7 @@
     <div class="text">
       <h2>Sobre Nós</h2>
       <p>
-        No DigitalizaJá, acreditamos que cada empresa, independentemente do tamanho, 
+        No DigitalizeJá, acreditamos que cada empresa, independentemente do tamanho, 
         merece estar presente no mundo digital de forma profissional e impactante. 
         Nossa missão é transformar ideias em sites estáticos modernos, responsivos e fáceis de usar, 
         que representem verdadeiramente a identidade de cada cliente. </p>

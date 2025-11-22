@@ -4,7 +4,6 @@
     <div class="card">
         <h3>Criação de Sites Estáticos</h3>
         <p>Desenvolvimento de sites rápidos, modernos e totalmente responsivos para pequenas e médias empresas.</p>
-        <p class="price">Preço: 50–100 kz</p>
         <a href="#">Saiba mais →</a>
         </div>
 

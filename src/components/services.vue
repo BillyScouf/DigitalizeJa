@@ -10,25 +10,25 @@
   <div class="card">
     <h3>Landing Pages Profissionais</h3>
     <p>Páginas únicas focadas em conversão, ideais para campanhas, serviços e divulgação de produtos.</p>
-    <a href="#">Ver detalhes →</a>
+    <a href="#">Saiba mais →</a>
   </div>
 
   <div class="card">
     <h3>Portfólios Pessoais</h3>
     <p>Mostre seus projetos e experiência com um portfólio elegante, simples e fácil de navegar.</p>
-    <a href="#">Criar portfólio →</a>
+    <a href="#">Saiba mais →</a>
   </div>
 
   <div class="card">
     <h3>Redesign de Sites</h3>
     <p>Transformo sites antigos em versões modernas, leves e compatíveis com todos os dispositivos.</p>
-    <a href="#">Atualizar site →</a>
+    <a href="#">Saiba mais →</a>
   </div>
 
   <div class="card">
     <h3>Publicação & Deploy</h3>
     <p>Hospedagem gratuita em Netlify, GitHub Pages, Render ou Vercel, com deploy completo.</p>
-    <a href="#">Publicar site →</a>
+    <a href="#">Saiba mais →</a>
   </div>
 </section>
 

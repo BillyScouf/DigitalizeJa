@@ -19,7 +19,7 @@
           - Produtos<br>
           - Cartões de apresentação Digitail<br><br>
 
-          <strong style="font-size:18px;">Preço: A partir de <span style="color:#0d6efd;">40.000 KZ</span></strong>
+          <strong style="font-size:18px;">Preço: A partir de <span style="color:#0d6efd;"> ------- KZ</span></strong>
         </p>
       `,
       icon: 'info',
@@ -45,7 +45,7 @@ function mostrarAlerta() {
         ✔️ SEO básico<br>
         ✔️ Hospedagem gratuita<br><br>
 
-        <strong style="font-size:18px;">Preço: A partir de <span style="color:#0d6efd;">40.000 KZ</span></strong>
+        <strong style="font-size:18px;">Preço: A partir de <span style="color:#0d6efd;"> ------- KZ</span></strong>
       </p>
     `,
     icon: 'info',
@@ -69,7 +69,7 @@ function mostrarPortfolio() {
         ✔️ Galeria de projetos otimizada<br>
         ✔️ Hospedagem gratuita<br><br>
 
-        <strong style="font-size:18px;">Preço: A partir de <span style="color:#0d6efd;">40.000 KZ</span></strong>
+        <strong style="font-size:18px;">Preço: A partir de <span style="color:#0d6efd;"> ------- KZ</span></strong>
       </p>
     `,
     icon: 'info',
@@ -93,7 +93,7 @@ function mostrarRedesign() {
         ✔️ Melhorias de velocidade e SEO<br>
 
         <strong style="font-size:18px;">
-          Preço: A partir de <span style="color:#0d6efd;">40.000 KZ</span>
+          Preço: A partir de <span style="color:#0d6efd;"> ------- KZ</span>
         </strong>
       </p>
     `,
@@ -121,7 +121,7 @@ function mostrarDeploy() {
         ✔️ Suporte inicial após publicação<br><br>
 
         <strong style="font-size:18px;">
-          Preço: Incluso nos pacotes digitais ou a partir de <span style="color:#0d6efd;">5.000 KZ</span>
+          Preço: Incluso nos pacotes digitais ou a partir de <span style="color:#0d6efd;"> ------- KZ</span>
         </strong>
       </p>
     `,

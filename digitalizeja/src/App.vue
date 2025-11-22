@@ -3,7 +3,7 @@
   <NavBar />
   <Hero />
   <About />
-  <Services />
+  <services />
   <Footer />
 </template>
 
@@ -11,11 +11,11 @@
 import NavBar from './components/NavBar.vue'
 import Hero from './components/Hero.vue'
 import About from './components/About.vue'
-import Services from './components/Services.vue'
+import services from './components/services.vue'
 import Footer from './components/Footer.vue'
 
 export default {
-  components: { NavBar, Hero, About , Services, Footer }
+  components: { NavBar, Hero, About , services, Footer }
 }
 </script>
 

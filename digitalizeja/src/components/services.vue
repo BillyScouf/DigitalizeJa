@@ -1,35 +1,41 @@
 <!-- src/components/Services.vue -->
 <template>
 <section id="servicos" class="services">
-  <div class="card">
-    <h3>Criação de Sites Estáticos</h3>
-    <p>Desenvolvimento de sites rápidos, modernos e totalmente responsivos para pequenas e médias empresas.</p>
-    <a href="#">Saiba mais →</a>
-  </div>
+    <div class="card">
+        <h3>Criação de Sites Estáticos</h3>
+        <p>Desenvolvimento de sites rápidos, modernos e totalmente responsivos para pequenas e médias empresas.</p>
+        <p class="price">Preço: 50–100 kz</p>
+        <a href="#">Saiba mais →</a>
+        </div>
 
-  <div class="card">
-    <h3>Landing Pages Profissionais</h3>
-    <p>Páginas únicas focadas em conversão, ideais para campanhas, serviços e divulgação de produtos.</p>
-    <a href="#">Ver detalhes →</a>
-  </div>
+        <div class="card">
+        <h3>Landing Pages Profissionais</h3>
+        <p>Páginas únicas focadas em conversão, ideais para campanhas, serviços e divulgação de produtos.</p>
+        <p class="price">Preço: 50–100 kz</p>
+        <a href="#">Saiba mais →</a>
+        </div>
 
-  <div class="card">
-    <h3>Portfólios Pessoais</h3>
-    <p>Mostre seus projetos e experiência com um portfólio elegante, simples e fácil de navegar.</p>
-    <a href="#">Criar portfólio →</a>
-  </div>
+        <div class="card">
+        <h3>Portfólios Pessoais</h3>
+        <p>Mostre seus projetos e experiência com um portfólio elegante, simples e fácil de navegar.</p>
+        <p class="price">Preço: 50–100 kz</p>
+        <a href="#">Saiba mais →</a>
+        </div>
 
-  <div class="card">
-    <h3>Redesign de Sites</h3>
-    <p>Transformo sites antigos em versões modernas, leves e compatíveis com todos os dispositivos.</p>
-    <a href="#">Atualizar site →</a>
-  </div>
+        <div class="card">
+        <h3>Redesign de Sites</h3>
+        <p>Transformo sites antigos em versões modernas, leves e compatíveis com todos os dispositivos.</p>
+        <p class="price">Preço: 50–100 kz</p>
+        <a href="#">Saiba mais →</a>
+        </div>
 
-  <div class="card">
-    <h3>Publicação & Deploy</h3>
-    <p>Hospedagem gratuita em Netlify, GitHub Pages, Render ou Vercel, com deploy completo.</p>
-    <a href="#">Publicar site →</a>
-  </div>
+        <div class="card">
+        <h3>Publicação & Deploy</h3>
+        <p>Hospedagem gratuita em Netlify, GitHub Pages, Render ou Vercel, com deploy completo.</p>
+        <p class="price">Preço: 50–100 kz</p>
+        <a href="#">Saiba mais →</a>
+    </div>
+
 </section>
 
 </template>
@@ -43,6 +49,12 @@
   padding: 2rem;
   max-width: 1100px;
   margin: auto;
+}
+
+.price {
+  font-weight: bold;
+  color: #ff6600; /* cor chamativa */
+  margin-top: 10px;
 }
 
 /* Card */

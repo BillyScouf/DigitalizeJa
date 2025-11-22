@@ -1,7 +1,7 @@
 <!-- src/components/Navbar.vue -->
 <template>
   <nav class="navbar">
-    <div class="logo"><a href="#home">DigitalizaJá</a></div>
+    <div class="logo"><a href="#home">DigitalizeJá</a></div>
 
     <!-- Botão Hamburger para mobile -->
     <div class="hamburger" @click="toggleMenu">

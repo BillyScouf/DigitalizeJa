@@ -2,7 +2,7 @@
 <template>
   <footer class="footer">
     <div class="left">
-      <div class="logo"><a href="#home">DigitalizaJá</a></div>
+      <div class="logo"><a href="#home">DigitalizeJá</a></div>
       <p>Consultoria especializada em criação de sites estáticos modernos, rápidos e profissionais.</p>
     </div>
 
@@ -24,13 +24,13 @@
 
       <div>
         <h4>Contacto</h4>
-        <p><a href="contacto.html">Página de Contacto</a></p>
-        <p><a href="redes.html">Minhas Redes Sociais</a></p>
+        <p><a href="#">Página de Contacto</a></p>
+        <p><a href="#">Minhas Redes Sociais</a></p>
       </div>
     </div>
 
     <div class="footer-bottom">
-      <p>&copy; 2025 DigitalizaJá. Todos os direitos reservados.</p>
+      <p>&copy; 2025 DigitalizeJá. Todos os direitos reservados.</p>
     </div>
 
   </footer>
